@@ -1,0 +1,10 @@
+{
+    "color-highlight.markerType": "dot-before",
+
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#c97911",
+        "titleBar.activeBackground": "#c97911",
+        "titleBar.activeForeground": "#ffffff"
+    }
+
+}
